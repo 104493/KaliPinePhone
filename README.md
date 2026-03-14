@@ -21,7 +21,7 @@ en dual boot, pour un usage mobile discret des outils de cybersécurité.
 - OS : Kali Linux ARM64
 - Bootloader : U-Boot
 - Architecture : ARM Cortex-A57 (RK3399S)
-- Dual boot : [précise l'OS secondaire]
+- Dual boot : PostmarketOS - Kali
 
 ## Statut
 - Fonctionnel — Kali Linux opérationnel sur PinePhone Pro
